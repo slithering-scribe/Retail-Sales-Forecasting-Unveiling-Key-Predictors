@@ -6,9 +6,9 @@ I’m currently learning: Advanced machine learning techniques and feature engin
 
 I’m looking to collaborate on: Projects related to data science, predictive analytics, and any initiatives focused on optimizing retail sales strategies.
 
-How to reach me: [Your Email Address]
+How to reach me: [tamara.kachalla@outlook.com]
 
-Pronouns: [Your Pronouns]
+Pronouns: [He/Him]
 
 ⚡ Fun fact: One shared car can replace between 5 and 8 privately owned cars, contributing significantly to a sustainable future.
 
@@ -38,18 +38,14 @@ Reports: Provides detailed reports on findings and model performances.
 Visualizations: Contains visualizations that help interpret the data and model results.
 
 How to Use
-Clone the Repository:
-
+1. Clone the Repository:
 bash
+Copy: git clone [repository link]
 
-Copy
-git clone [repository link]
-Install Dependencies:
-
+2. Install Dependencies:
 bash
+Copy: pip install -r requirements.txt
 
-Copy
-pip install -r requirements.txt
 Run Notebooks: Open the notebooks in Jupyter and follow the instructions for data analysis, model building, and evaluation.
 
 Contributions
